@@ -98,11 +98,11 @@ body {
 
 /*Child Section about me */
 .child-section-about {
-  /* background-color: rgb(82, 136, 164); */
   font-size: larger;
   font-weight: bolder;
-  /* padding-left: 40px;
-  padding-right: 40px; */
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 100px;
   margin-left: 40px;
   margin-right: 40px;
 }
@@ -117,6 +117,8 @@ body {
 .child-section-img {
   border: black 2px solid;
   margin-bottom: 25px;
+  padding-bottom: 50px;
+  background-color: rgb(117, 61, 60);
 }
 .child-section-first {
   padding-top: 50px;
@@ -142,5 +144,6 @@ body {
 footer {
   display: flex;
   background-color: rgb(82, 136, 164);
-  justify-content: space-between;
+  line-height: 60px;
+  text-align: center;
 }
