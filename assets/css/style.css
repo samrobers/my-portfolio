@@ -3,7 +3,7 @@
     height: 200px;
 }
 h1 {
-  color: rgb(195, 188, 185);
+  color: white;
   background-color: rgb(117, 61, 60);
   width: 343px;
 }
@@ -18,4 +18,12 @@ body {
 }
 .nav-section {
     width: 85px;
+}
+
+.custom-footer-text {
+  font-size: 20px;
+}
+
+.red-background {
+  background-color: rgb(117, 61, 60);
 }
