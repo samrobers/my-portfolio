@@ -1,6 +1,6 @@
 .header-section {
-    background-color: rgb(82, 136, 164);
-    height: 200px;
+  background-color: rgb(82, 136, 164);
+  height: 200px;
 }
 h1 {
   color: white;
@@ -13,11 +13,11 @@ body {
   padding: 0;
 }
 .footer-section {
-     background-color: rgb(82, 136, 164);
-     height: 100px;
+  background-color: rgb(82, 136, 164);
+  height: 100px;
 }
 .nav-section {
-    width: 85px;
+  width: 85px;
 }
 
 .custom-footer-text {
@@ -26,4 +26,7 @@ body {
 
 .red-background {
   background-color: rgb(117, 61, 60);
+}
+.grey-background {
+  background-color: rgb(195, 188, 185);
 }
