@@ -1,0 +1,21 @@
+.header-section {
+    background-color: rgb(82, 136, 164);
+    height: 200px;
+}
+h1 {
+  color: rgb(195, 188, 185);
+  background-color: rgb(117, 61, 60);
+  width: 343px;
+}
+body {
+  background-color: rgb(195, 188, 185);
+  margin: 0;
+  padding: 0;
+}
+.footer-section {
+     background-color: rgb(82, 136, 164);
+     height: 100px;
+}
+.nav-section {
+    width: 85px;
+}
